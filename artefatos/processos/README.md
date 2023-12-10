@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* (CadastroDeAnimais) - turma3adocao.bpmn - Processo de cadastro de animais.
+* (GerenciadorDePessoas) - turma3adocao.bpmn - Processo de gerenciar pessoas.
+* CadastroDeFuncionarios - turma3adocao.bpmn - Processo de cadastro de funcionarios.
 
 
